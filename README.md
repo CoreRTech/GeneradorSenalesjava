@@ -7,10 +7,10 @@ Proyecto en Java para generar ondas **Senoidal**, **Cuadrada** y **Triangular** 
 ### Onda Senoidal
 ![Senoidal](imagenes/Senoidal.png)
 
-### Onda Cuadrada
+### Onda Triangular
 ![Cuadrada](imagenes/Cuadrada.png)
 
-### Onda Triangular
+### Onda Cuadrada
 ![Triangular](imagenes/Triangular.png)
 
 ## Uso
